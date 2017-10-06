@@ -29,6 +29,6 @@
     <source-file src="src/ios/Open.m"/>
     <header-file src="src/ios/Open.h"/>
   </platform>
-  <dependency id="cordova-plugin-file"/>
+  <dependency id="cordova-plugin-file" url="https://github.com/ravi013/cordova-plugin-file.git"/>
   <dependency id="cordova-plugin-file-transfer"/>
 </plugin>
